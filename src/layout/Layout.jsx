@@ -1,12 +1,12 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-
+import MainComponent from '../components/MainComponent';
 function Layout() {
   return (
     <div>
       <Navbar />
-      {/* Content of the layout */}
+      <MainComponent />
       <Footer />
     </div>
   );

@@ -85,6 +85,27 @@ const MainComponent = () => {
                 <h2>14th February Gifts</h2>
                 <CategoryComponent categoryData={data["14February"]} />
             </section>
+            <div className="container">
+            <div className='second col-md-2'>
+                <img src="https://images.ctfassets.net/h1eh3mhnbyvi/XP2awX8HdPGS7UjLy7akq/1bcda13f96df655156b32e8e4da116d8/FTD-Merx-HPorCLP-FullBanner-Desktop-Evergreen-Bday_BDB_01-4385.jpg?w=1920&fm=webp&q=70" alt="" />
+                <div className='secondd'>
+                    <h2>Ad günü arzuları qəbul edildi </h2>
+                    <p>Təravət hədiyyə edin</p>
+                    <a href=''>AD GÜNÜ GÜLLƏRİNİ ALIN</a>
+                </div>
+            </div>
+            </div>
+            <div className="container">
+            <div className='second col-md-2'>
+            <div className='secondd'>
+                    <h2>Ad günü arzuları qəbul edildi </h2>
+                    <p>Təravət hədiyyə edin</p>
+                    <a href=''>AD GÜNÜ GÜLLƏRİNİ ALIN</a>
+                </div>
+                <img src="https://images.ctfassets.net/h1eh3mhnbyvi/XP2awX8HdPGS7UjLy7akq/1bcda13f96df655156b32e8e4da116d8/FTD-Merx-HPorCLP-FullBanner-Desktop-Evergreen-Bday_BDB_01-4385.jpg?w=1920&fm=webp&q=70" alt="" />
+            </div>
+            </div>
+
         </div>
     );
 };

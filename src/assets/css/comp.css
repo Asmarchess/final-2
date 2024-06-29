@@ -34,10 +34,9 @@ h2 {
     font-size: 1em;
 }
 
-/* Bootstrap icon styles */
 .icon {
     font-size: 1.5em;
-    color: #007bff; /* Bootstrap primary color */
+    color: #007bff; 
     margin-left: 10px;
     cursor: pointer;
 }
