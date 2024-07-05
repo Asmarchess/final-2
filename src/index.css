@@ -13,15 +13,10 @@
   gap: 30px;
 }
 
-.links {
+.ms-auto {
   display: flex;
   justify-content: flex-end;
   gap: 30px;
-}
-
-.card {
-  display: flex;
-  flex-direction: column;
 }
 
 .image {
@@ -63,7 +58,7 @@ footer {
 
 }
 
-.row {
+#navbarNav {
   border-bottom: 2px solid #3c4619;
   background-color: #3c4619;
   flex-direction: column;

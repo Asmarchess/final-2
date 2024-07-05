@@ -1,49 +1,155 @@
 {
-    "data":[
-        {
-            "id":1,
-            "name":"We Love Dad Belgian Chocolate Covered OREO Cookies",
-            "price":55,
-            "image":"https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/BD2D_LOL_preset_ftd-mx-tile-wide-sv-new.jpeg?v=1686668609&width=384",
-            "category":"Father"
-        },
-        {
-            "id":2,
-            "name":"We Love Dad Belgian Chocolate Covered OREO Cookies",
-            "price":55,
-            "image":"https://cdn.shopify.com/s/files/1/0507/3754/5401/files/B35D_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1705939483&width=384",
-            "category":"Father"
-        },
-        
-        {
-            "id":3,
-            "name":"Birthday Brights Bouquet",
-            "price":95,
-            "image":"https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/BD2D_LOL_preset_ftd-mx-tile-wide-sv-new.jpeg?v=1686668609&width=768",
-            "category":"Father"
-        }
-        ,
-        {
-            "id":4,
-            "name":"Birthday Brights Bouquet",
-            "price":95,
-            "image":"https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/BD2D_LOL_preset_ftd-mx-tile-wide-sv-new.jpeg?v=1686668609&width=768",
-            "category":"Father"
-        }
-        ,
-        {
-            "id":5,
-            "name":"Birthday Brights Bouquet",
-            "price":95,
-            "image":"https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/BD2D_LOL_preset_ftd-mx-tile-wide-sv-new.jpeg?v=1686668609&width=768",
-            "category":"Birthday"
-        },
-        {
-            "id":6,
-            "name":"Birthday Brights Bouquet",
-            "price":95,
-            "image":"https://cdn.shopify.com/s/files/1/0507/3754/5401/t/1/assets/BD2D_LOL_preset_ftd-mx-tile-wide-sv-new.jpeg?v=1686668609&width=768",
-            "category":"Birthday"
-        }
-    ]
+  "data": [
+    {
+      "id": 2,
+      "name": "Sweet & Pretty Bouquet",
+      "price": 50,
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/files/B35D_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1705939483&width=384",
+      "category": "Father",
+      "basket": 0
+    },
+    {
+      "id": 3,
+      "name": "Light of My Life Bouquet & Happy Birthday Topper",
+      "price": 85,
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/files/V5449D_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1688656525&width=768",
+      "category": "Father",
+      "basket": 0
+    },
+    {
+      "id": 4,
+      "name": "Marmalade Skies Bouquet",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/files/C5374D_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1689247232&width=768",
+      "category": "Father",
+      "basket": 0
+    },
+    {
+      "id": 5,
+      "name": "Regal Jewel – A Florist Original",
+      "price": 45,
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/files/J-6022D_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1704901989&width=768",
+      "category": "Birthday"
+    },
+    {
+      "id": 6,
+      "name": "Fiesta Bouquet",
+      "price": 60,
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/files/CGPD_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1688041841&width=768",
+      "category": "Birthday"
+    },
+    {
+      "id": 7,
+      "name": "Stargazing Bouquet",
+      "price": 85,
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/files/V5600D_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1715927078&width=768",
+      "category": "Birthday"
+    },
+    {
+      "id": 8,
+      "name": "Rays of Life Bouquet",
+      "price": 120,
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/files/S5324D_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1715953217&width=768",
+      "category": "Birthday"
+    },
+    {
+      "id": 9,
+      "name": "Sympathy",
+      "price": 120,
+      "image": "https://images.ctfassets.net/h1eh3mhnbyvi/173EV1Lm07m4c8VxZUtCBe/152e50de5183ba4acc228786b7c309b5/FTD_CategoryTile_Product_Merx_SympathyHP.png?w=768&fm=webp&q=70",
+      "category": "8March"
+    },
+    {
+      "id": 10,
+      "name": "Get Well",
+      "price": 120,
+      "image": "https://images.ctfassets.net/h1eh3mhnbyvi/3nsEpFzohi9bYmEZCI7ssq/ae9f973d1819c6c897f2216fb20869b2/FTD_CategoryTile_Product_Merx_CincoDeMayo_HP.jpg?w=768&fm=webp&q=70",
+      "category": "8March"
+    },
+    {
+      "id": 11,
+      "name": "Anniversary",
+      "price": 120,
+      "image": "https://images.ctfassets.net/h1eh3mhnbyvi/6f7nXKp53nXMikPIiQHcUr/2911c2dd3c891b32f95e082b8396bc71/FTD_CategoryTile_Product_Merx_GetWellHP.png?w=768&fm=webp&q=70",
+      "category": "8March"
+    },
+    {
+      "id": 12,
+      "name": "Thinking of You",
+      "price": 120,
+      "image": "https://images.ctfassets.net/h1eh3mhnbyvi/35oOjZdpheDtM1QAPWtAf7/ae81a73b5f49435ed05250f3b232564c/FTD_CategoryTile_Product_Merx_SameDayVDayHP.png?w=768&fm=webp&q=70",
+      "category": "8March"
+    },
+    {
+      "id": 13,
+      "name": "Thinking ",
+      "price": 70,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOl0QyiLgohtjxh5jxXVJ63gUBVo2mopbcoQ&s",
+      "category": "14February"
+    },
+    {
+      "id": 14,
+      "name": "Thinking 2",
+      "price": 80,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKZc6hPJSJQAccHNADpOO-Oo5_uU3T7B1mQ&s",
+      "category": "14February"
+    },
+    {
+      "id": 15,
+      "name": "Thinking",
+      "price": 90,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VeVIm_fWlMT7yUfQNjcpgFNi-YALe0VnfA&s",
+      "category": "14February"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 2,
+      "name": "Sweet & Pretty Bouquet",
+      "price": 50,
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/files/B35D_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1705939483&width=384",
+      "category": "Father",
+      "basket": 0
+    },
+    {
+      "id": 5,
+      "name": "Regal Jewel – A Florist Original",
+      "price": 45,
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/files/J-6022D_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1704901989&width=768",
+      "category": "Birthday"
+    }
+  ],
+  "basket": [
+    {
+      "id": 3,
+      "name": "Light of My Life Bouquet & Happy Birthday Topper",
+      "price": 85,
+      "image": "https://cdn.shopify.com/s/files/1/0507/3754/5401/files/V5449D_LOL_preset_ftd-mx-tile-wide-sv-new.jpg?v=1688656525&width=768",
+      "category": "Father",
+      "basket": 0,
+      "count": 2
+    }
+  ],
+  "user": [
+    {
+      "name": "",
+      "mail": "jalaibrahimzade@gmail.com",
+      "password": "1234",
+      "fav": [],
+      "id": 1
+    },
+    {
+      "name": "",
+      "mail": "jalaibrahimzade@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "",
+      "mail": "jalaibrahimzade@gmail.com",
+      "password": "1234",
+      "fav": [],
+      "id": 3
+    }
+  ]
 }

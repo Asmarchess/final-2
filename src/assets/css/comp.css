@@ -50,3 +50,8 @@ h2 {
     width: 100%;
     align-items: center;
 }
+
+.cardd{
+    background-color: #007bff;
+    height: 440px;
+}
